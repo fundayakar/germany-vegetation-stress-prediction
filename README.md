@@ -2,8 +2,7 @@
 
 This repository contains the data processing pipeline, machine learning models, and figures for the manuscript:
 
-> **Predicting Vegetation Stress from Antecedent Hydroclimatic Conditions Across Germany: A Machine Learning Approach with Spatially Blocked Validation**
-> Submitted to *Remote Sensing of Environment* (2026)
+> **Predicting Vegetation Stress from Antecedent Hydroclimatic Conditions: A Spatially Validated Machine Learning Framework for Germany**
 
 ---
 
