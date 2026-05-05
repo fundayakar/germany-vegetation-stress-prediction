@@ -30,6 +30,8 @@ germany-vegetation-stress-prediction/
 │   ├── 05_lc_models_figures.py                       # Land-cover-specific models and figures
 │   ├── 06_robustness_check.py                        # Robustness check with alternative stress threshold
 │   └── 07_study_design_figure.py                     # Study design diagram
+│   └── 09_lead_time_analysis.py
+│   └── 08_temporal_transferability.py
 └── figure/
     ├── fig_study_design.png
     ├── fig_shap_importance.png
